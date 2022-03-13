@@ -540,9 +540,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 28482DD61D314E7C003491D9 /* Build configuration list for PBXNativeTarget "TrueTime-iOS" */;
 			buildPhases = (
+				28482DBF1D314E7B003491D9 /* Headers */,
 				28482DBD1D314E7B003491D9 /* Sources */,
 				28482DBE1D314E7B003491D9 /* Frameworks */,
-				28482DBF1D314E7B003491D9 /* Headers */,
 				28482DC01D314E7B003491D9 /* Resources */,
 			);
 			buildRules = (
